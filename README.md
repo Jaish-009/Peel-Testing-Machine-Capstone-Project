@@ -10,10 +10,9 @@ This project focused on mechanical system design, prototyping, fabrication, and 
 - Built for real-world adhesive strength testing applications
 
 ## 🛠️ Tools & Technologies
-- SolidWorks
-- Fusion 360
 - Mechanical Fabrication
-- Prototyping & Testing
+- Prototyping
+- Testing
 - Engineering Design
 
 ## ⚙️ Key Features
@@ -29,9 +28,6 @@ This project focused on mechanical system design, prototyping, fabrication, and 
 - Performed mechanical integration and fabrication planning
 - Conducted prototype testing and performance validation
 - Contributed to innovation documentation and patent process
-
-## 📷 Project Preview
-(Add images/screenshots here)
 
 ## 📈 Outcomes
 - Successfully demonstrated working prototype
